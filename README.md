@@ -2,4 +2,4 @@
 
 ## Developers: Jose Delpiano, Luis Pizarro, Martin Jones
 
-To be continued...
+Segmentation of in-resin fluorescence for cells in ultrathin slices
